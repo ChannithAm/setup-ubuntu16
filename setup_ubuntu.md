@@ -62,6 +62,7 @@ precedence ::ffff:0:0/96  10
 --------------------------------------------------------
 E: Package 'vim' has no installation candidate
 ```
+sudo add-apt-repository ppa:jonathonf/vim
 sudo apt-get update
 sudo apt-get install vim
 ```
